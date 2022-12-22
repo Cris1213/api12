@@ -1,0 +1,52 @@
+[
+{
+  "id":1,
+  "nome": "CHEIN EZwear Vestido pescoço malha com nervuras",
+  "categoria": "Femino",
+  "preço": "R$46,99",
+  "imagem": "https://img.ltwebstatic.com/images3_pi/2022/12/10/1670658090f874626c0a45047ed28bfc813e14587f_thumbnail_600x.webp"
+
+},
+{
+  "id":2,
+  "nome": "Listrado ocasional Camisola",
+  "categoria": "Femino",
+  "preço": "R$98,90",
+  "imagem": "https://img.ltwebstatic.com/images3_pi/2021/09/29/16328958769faa0d36aa642d410317b03987766b73_thumbnail_600x.webp"
+
+},
+
+{
+  "id":3,
+  "nome": "DAZY Homens Jaqueta jeans Ombro caído",
+  "categoria": "Masculino",
+  "preço": "R$66,57",
+  "imagem": "https://img.ltwebstatic.com/images3_pi/2022/10/07/1665113730a8abef9ca9c5b2d741078e0971ae9587_thumbnail_600x.webp"
+
+},
+{
+  "id":4,
+  "nome": "Botões na frente Simples Casual Casacos para homem",
+  "categoria": "Masculino",
+  "preço": "R$117,95",
+  "imagem": "https://img.ltwebstatic.com/images3_pi/2022/07/26/16588232453ee6ec585146df2d63b9de5629155840_thumbnail_600x.webp"
+
+},
+{
+  "id":5,
+  "nome": "Recomendado Desenho Animado Fofo Macacões para bêbê",
+  "categoria": "Infantil",
+  "preço": "R$53,90",
+  "imagem": "https://img.ltwebstatic.com/images3_pi/2021/07/22/1626924692ae5c6a9deacb9ac39f5ae7224fb66a56_thumbnail_600x.webp"
+
+},
+{
+  "id":6,
+  "nome": "Slogan ocasional Conjuntos de bebê",
+  "categoria": "Infantil",
+  "preço": "R$58,85",
+  "imagem": "https://img.ltwebstatic.com/images3_pi/2021/11/05/16360940932e9dfe167658c934e2550dd5fec51ad0.webp"
+
+}
+
+]
